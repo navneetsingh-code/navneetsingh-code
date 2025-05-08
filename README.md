@@ -1,11 +1,11 @@
 # 👋 Hi, I am Navneet Singh  
-### 🚀 Senior Software Developer | Conversational AI & Azure Expert  
+### 🚀 Staff Software Engineer | Conversational AI & Azure Expert  
 
 ---
 
 ## 💡 About Me  
-- 🔭 I’m currently working on **Azure Bot Framework, CLU, CQA, and Speech Services**.  
-- 🎯 13+ years of experience in **.NET Core, Azure cloud solutions, REST APIs, SQL, and DevOps**.  
+- 🔭 I’m currently working on **Copilot studio, Azure Bot Framework, CLU, CQA, and Speech Services**.  
+- 🎯 12+ years of experience in **.NET Core, MERN Stack, Azure cloud solutions, REST APIs, SQL, and DevOps**.  
 - 🧩 Passionate about building **intelligent chatbots**, **AI-powered enterprise solutions**, and automating business processes.  
 - 🌎 Currently based in **Atlanta, GA, USA**.  
 
@@ -41,7 +41,7 @@
 ---
 
 ## 🛠️ Skills:  
-- **Languages:** C#, .NET Core, SQL, Python (learning), KQL  
+- **Languages:** C#, Node.js, React, .NET Core, SQL, Python (learning), KQL  
 - **Cloud:** Azure App Services, Azure Functions, Azure Communication Services, Azure Storage, CLU, CQA, Speech Services  
 - **APIs:** REST API development and integrations  
 - **Other:** Git, Power BI, DevOps CI/CD, Application Insights  
